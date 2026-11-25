@@ -1,0 +1,18 @@
+{
+    "team": [
+        "2023A7PS0381G",
+        "2023A7PS0478G"
+    ],
+    "level_attempted": 2,
+    "versions": {
+        "qiskit": "2.6.2",
+        "qiskit-aer": "0.18.4"
+    },
+    "L1": {
+        "purity_third_state": 0.5
+    },
+    "L2": {
+        "bell_reduced_purity": 0.4999999999999998
+    },
+    "L3": {}
+}
