@@ -1,0 +1,126 @@
+{
+  "code": "0381",
+  "n": 6,
+  "gates": [
+    {
+      "g": "CNOT",
+      "q": [
+        3,
+        1
+      ]
+    },
+    {
+      "g": "CNOT",
+      "q": [
+        1,
+        2
+      ]
+    },
+    {
+      "g": "H",
+      "q": [
+        5
+      ]
+    },
+    {
+      "g": "H",
+      "q": [
+        0
+      ]
+    },
+    {
+      "g": "S",
+      "q": [
+        3
+      ]
+    },
+    {
+      "g": "H",
+      "q": [
+        2
+      ]
+    },
+    {
+      "g": "CNOT",
+      "q": [
+        5,
+        3
+      ]
+    },
+    {
+      "g": "T",
+      "q": [
+        4
+      ]
+    },
+    {
+      "g": "X",
+      "q": [
+        1
+      ]
+    },
+    {
+      "g": "T",
+      "q": [
+        0
+      ]
+    },
+    {
+      "g": "CNOT",
+      "q": [
+        1,
+        2
+      ]
+    },
+    {
+      "g": "H",
+      "q": [
+        1
+      ]
+    },
+    {
+      "g": "T",
+      "q": [
+        4
+      ]
+    },
+    {
+      "g": "T",
+      "q": [
+        0
+      ]
+    },
+    {
+      "g": "T",
+      "q": [
+        1
+      ]
+    },
+    {
+      "g": "CNOT",
+      "q": [
+        1,
+        0
+      ]
+    },
+    {
+      "g": "T",
+      "q": [
+        1
+      ]
+    }
+  ],
+  "noise": {
+    "channel": "bitflip",
+    "p": 0.035,
+    "applied": "after every gate, an independent single-qubit channel on each qubit the gate acted on (both qubits for a CNOT)"
+  },
+  "subsystem_A": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "traj_seed": 1930194232,
+  "fingerprint": "74526176a56d"
+}

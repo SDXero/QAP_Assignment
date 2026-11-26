@@ -3,7 +3,7 @@
         "2023A7PS0381G",
         "2023A7PS0478G"
     ],
-    "level_attempted": 2,
+    "level_attempted": 3,
     "versions": {
         "qiskit": "2.6.2",
         "qiskit-aer": "0.18.4"
@@ -14,5 +14,11 @@
     "L2": {
         "bell_reduced_purity": 0.4999999999999998
     },
-    "L3": {}
+    "L3": {
+        "purity": 0.35638126985317437,
+        "entropy": 2.444997590404726,
+        "entropy_A": 2.541991550733713,
+        "traj_estimate_purity": 0.36564172222222235,
+        "n_traj": 3000
+    }
 }

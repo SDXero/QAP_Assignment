@@ -1,0 +1,2 @@
+Soumya Dedhia (2023A7PS0381G): Set up the Qiskit environment, implemented Level 1 state/validity checks and Level 2 noise sweep and trajectory simulations (S1-S5), implemented Level 3 instance simulations and scaling benchmarks (S6-S8), and compiled the final report.
+Vraj Shah (2023A7PS0478G): Implemented the initial Bell state partial trace and results.json schema (S3), configured .gitignore and cross-machine environment verification, validated Qiskit noise/endianness conventions (Q2.4), and reviewed theoretical derivations and simulation analysis.
